@@ -1,0 +1,525 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lengte</title>
+  <metadata>
+  <md:content-id>m30899</md:content-id><md:title>Lengte</md:title>
+  <md:abstract/>
+  <md:uuid>2b13471d-02da-4639-b59d-33131af02fb9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168997833786">
+      <title>WISKUNDE</title>
+      <para id="para-id1168997833786">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168997432312">
+      <title>Graad 5</title>
+      <para id="para-id1168997432312">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168997226767">
+      <title>METING EN TYD</title>
+      <para id="para-id1168997226767">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8897502">
+      <title>Module 40</title>
+      <para id="para-id8897502">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168997782379">
+      <title>LENGTE</title>
+      <para id="id1168998200840">In hierdie leereenheid gaan ons kyk na verskillende eenhede om lengte mee te meet, asook na die belangrikheid daarvan om akkuraat te meet.</para>
+      <section id="id1168984409193">
+        <title>Aktiwiteit 1:</title>
+        <para id="para-id1168984409193">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1168996236234">
+        <title>Om te meet en op te teken [LU 4.5.3]</title>
+        <para id="para-id1168996236234">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1168994678549">
+        <title>Om met toepaslike meetinstrumente presies te meet [LU 4.7.3]</title>
+        <para id="id1168998415965">1. Kom ons spring sommer dadelik weg! Hoe goed ken jy jouself? Meet die volgende so akkuraat moontlik – ‘n maat mag jou help:</para>
+        <para id="id1168997576591">1.1 die lengte van jou duimnael  </para>
+        <para id="id1168991023374">1.2 die lengte van jou pinkie  </para>
+        <para id="id1168996141479">1.3 die lengte van jou regtervoet  </para>
+        <para id="id1168996027050">1.4 die lengte van jou linkerarm van jou skouer tot by die punt van jou middelvinger  </para>
+        <para id="id1168984595589">1.5 Hoe lank is jy?   </para>
+        <para id="id8838737">1.6 Hoe hoog kan jy bykom as jy spring van die grond af?   </para>
+        <para id="id8792920">1.7 Hoeveel hoër is dit as jyself?   </para>
+        <para id="id1168995558160">2. Wat het jy gebruik om bogenoemde te meet?</para>
+        <para id="id1168986601875"/>
+        <para id="id1168994382290">3. Watter ander meetinstrumente kan ons nog gebruik om lengtes mee te meet? </para>
+        <para id="id1168993743367"/>
+        <para id="id4376346"/>
+        <para id="id1257604"/>
+        <para id="id1168983443952"> Onthou jy nog?</para>
+        <para id="id1168986529115"> 1 cm = 10 mm</para>
+        <para id="id1168984538108"> 1 m = 100 cm</para>
+        <para id="id1168997776823"> 1 m = 1 000 mm</para>
+        <para id="id1168984286984"> 1 km = 1 000 m</para>
+        <para id="id1168991421736"/>
+        <para id="id1168997783684">Het jy geweet?</para>
+        <list id="id1168985959773" list-type="bulleted">
+          <item>1 meter is omtrent die afstand van ’n grootmens se neus  tot by die punt van sy uitgestrekte hand se middelvinger.</item>
+          <item>1 cm is ongeveer die lengte van ’n vingernael.</item>
+          <item>10 cm is ongeveer die lengte van ’n hand.</item>
+          <item>1 mm is min of meer die breedte van die spasie onder jou vingernael.</item>
+          <item>10 mm is ongeveer die breedte van ’n pinkie.</item>
+        </list>
+        <para id="id1168989693698">4. Werk saam met ’n maat en voltooi die volgende tabel.</para>
+        <table id="id1168992376993" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Meet</entry>
+                <entry>Skatting</entry>
+                <entry>Ware afmeting</entry>
+                <entry>Verskil</entry>
+              </row>
+              <row>
+                <entry>a)</entry>
+                <entry>die lengte van jou opvoeder </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>b)</entry>
+                <entry>die breedte van jul klaskamer</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>c)</entry>
+                <entry>die hoogte van jou bank / tafel</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>d)</entry>
+                <entry>die totale lengte van die skryfbord in die klas</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id1168990985274">
+        <title>Aktiwiteit 2:</title>
+        <para id="para-id1168990985274">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1168983939218">
+        <title>Om probleme op te los wat die kies van berekening met en herlei van standaard- eenhede insluit [LU 4.6]</title>
+        <para id="id1168996015486">1. Dit is belangrik dat ons sal weet watter meeteenhede vir spesifieke lengtes gebruik word. Om dit korrek te kan doen, is dit noodsaaklik dat ons sal weet presies hoe lank die verskillende meeteenhede is. Kom ons kyk hoe vaar jy! Kies ‘n geskikte eenheid om die volgende te meet:</para>
+        <para id="id1168986665116">1.1 Die borsmaat van Pa se pak klere is 102 ....................</para>
+        <para id="id1168984794596">1.2 Die hoogte van my kamermuur is 4 ....................</para>
+        <para id="id1168994406066">1.3 Die breedte van die stoep van die plaashuis is 2,5 ....................</para>
+        <para id="id1168994386313">1.4 Die dikte van my woordeboek is 40 ....................</para>
+        <para id="id4456633">1.5 Die afstand tussen Johannesburg en Kaapstad is meer as 1 000 ....................</para>
+        <para id="id1168997552100">1.6 Die diepte van die water in ons swembad is 1,500 ....................</para>
+        <para id="id1168983547438">2. Omkring die afmeting wat die naaste aan die werklikheid is:</para>
+        <para id="id4989530">2.1 Die deur van ons klas is ongeveer . . . . . . . . hoog.</para>
+        <para id="id1168994751568">(a)  20 m (b) 200 mm (c) 2 km (d) 2 m</para>
+        <para id="id1168988977112">2.2 My voet is omtrent . . . . . . . . lank.</para>
+        <para id="id1168985750570">(a)  26 cm (b) 26 mm (c) 26 km (d) 26 m</para>
+        <para id="id1168984185195">2.3 Die afstand van Durban na Oos-Londen is . . . . . . . . . . .</para>
+        <para id="id1168986702501">(a)  674 mm (b) 674 km (c) 674 m (d) 674 cm</para>
+        <para id="id5406765">3. Kom ons kyk na die desimale skryfwyse van lengte:</para>
+        <para id="id7051082">   Ons weet reeds 10 mm = 1 cm</para>
+        <para id="id1168999716745">Dus: 25 mm = 10 + 10 + 5 mm</para>
+        <para id="id1168996086973">= 1cm + 1 cm + 5 mm</para>
+        <para id="id1168984016813">= 2 cm + 5 mm</para>
+        <para id="id1168983550277">= 2,5 cm of 2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math> cm</para>
+        <para id="id1168998581563"> Voltooi die tabel:</para>
+        <table id="id2802268" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Aantal mm</entry>
+                <entry>10</entry>
+                <entry>85</entry>
+                <entry>............</entry>
+                <entry>245</entry>
+                <entry>............</entry>
+                <entry>1 026</entry>
+                <entry>............</entry>
+              </row>
+              <row>
+                <entry>Aantal cm</entry>
+                <entry>1</entry>
+                <entry>............</entry>
+                <entry>4,2</entry>
+                <entry>............</entry>
+                <entry>17,9</entry>
+                <entry>............</entry>
+                <entry>146,3</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1168984282872">4.  Ons weet daar is 1 000 mm in 1 m</para>
+        <para id="id1168983443630">Dus: 2 347 mm = 2 m 347 mm</para>
+        <para id="id1168988857976">= 2,347 m</para>
+        <para id="id1168986570974"> Voltooi die tabel:</para>
+        <table id="id6456609" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>mm</entry>
+                <entry>m</entry>
+              </row>
+              <row>
+                <entry>4 328</entry>
+                <entry>4,328</entry>
+              </row>
+              <row>
+                <entry>.....................</entry>
+                <entry>3</entry>
+              </row>
+              <row>
+                <entry>367</entry>
+                <entry>.....................</entry>
+              </row>
+              <row>
+                <entry>.....................</entry>
+                <entry>4,7</entry>
+              </row>
+              <row>
+                <entry>28</entry>
+                <entry>.....................</entry>
+              </row>
+              <row>
+                <entry>.....................</entry>
+                <entry>0,067</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>.....................</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1168996165462">5.  Net so is 1 000 m = 1 km</para>
+        <para id="id8535167">Dus: 1 407 m = 1 km 407 m</para>
+        <para id="id6780300">= 1,407 km</para>
+        <para id="id1168999936936"> Voltooi die tabel:</para>
+        <table id="id1168990629728" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Lengte in m</entry>
+                <entry>2 368</entry>
+                <entry>............</entry>
+                <entry>426</entry>
+                <entry>............</entry>
+                <entry>38</entry>
+                <entry>............</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry>Lengte in km</entry>
+                <entry>2,368</entry>
+                <entry>7</entry>
+                <entry>............</entry>
+                <entry>0,6</entry>
+                <entry>............</entry>
+                <entry>1,48</entry>
+                <entry>............</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id1701149">
+        <title/>
+        <para id="para-id1701149">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id3461658">
+        <title>Aktiwiteit 3:</title>
+        <para id="para-id3461658">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1168983553945">
+        <title>Om twee-dimensionele figure te meet en S.I.-eenhede te gebruik om op te teken [LU 4.5.3]</title>
+        <para id="para-id1168983553945">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1168997199887">
+        <title>SKAAL:</title>
+        <para id="id1168997233174">Het jy geweet?</para>
+        <para id="id1168984398082">Wanneer ons iets teken, bv. ’n huis, teken ons dit nie lewensgroot nie. </para>
+        <para id="id8774410">Ons teken dit op skaal. Die vorm bly dus dieselfde, maar nie die grootte nie. Die mes is bv. op ’n skaal 1 tot 4 geteken.</para>
+        <figure id="id6410886">
+          <media id="id6410886_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-1e92.png" id="id6410886__onlineimage" height="45" width="209"/>
+          </media>
+        </figure>
+        <para id="id1168983923589">Dink ook aan kaarte. ’n Plek word gewoonlik daarop kleiner geteken as wat dit in werklikheid is. ’n <emphasis effect="bold">Skaal</emphasis> sê vir ons hoe om afstande op ’n kaart te kry. Gewoonlik dui die skaal aan dat 1 cm op die kaart 500 km is, soos in die geval van die kaart hieronder.</para>
+        <para id="id1168983846394">1. Beantwoord die volgende vrae:</para>
+        <para id="id1168986708724">1.1 Hoe lank is die mes hierbo regtig? ..................................................</para>
+        <para id="id1168993834860"> 1.2 </para>
+        <figure id="id1168996230145">
+          <media id="id1168996230145_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-0e68.png" id="id1168996230145__onlineimage" height="280" width="332"/>
+          </media>
+        </figure>
+        <list id="id1168995934829" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+          <item>Hoe ver is dit regtig volgens die skaal van dorp A na B? ....................</item>
+        </list>
+        <para id="id1168983669761"/>
+        <list id="id1168997575778" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+          <item>En van C na D? ....................</item>
+        </list>
+        <para id="id1168986615885">2. Bepaal die skaal van elke item hieronder.</para>
+        <figure id="id1168998253566">
+          <media id="id1168998253566_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-7b8e.png" id="id1168998253566__onlineimage" height="29" width="126"/>
+          </media>
+        </figure>
+        <para id="id1168997513890">2.1 Die lengte van die potloodkryt is 15 cm.</para>
+        <para id="id1168984492137">Skaal: .........................................</para>
+        <para id="id1168992377801">
+          <figure id="id1168996055931">
+            <media id="id1168996055931_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics4-c7eb.png" id="id1168996055931__onlineimage" height="55" width="167"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id1168994291834"/>
+        <para id="id1168997057128"/>
+        <para id="id1168989736901">2.2 Die lengte van die bottel is 80 cm.</para>
+        <para id="id1168984655582">Skaal: .........................................</para>
+        <para id="id1168983603159">
+          <figure id="id6470552">
+            <media id="id6470552_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics5-7135.png" id="id6470552__onlineimage" height="73" width="127"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id1168997917624">2.3 Die lengte van die vis is 45 cm.</para>
+        <para id="id1168983548653"> Skaal: .........................................</para>
+        <para id="id6497241"> Meet nou die afstand.   </para>
+        <list id="id1168991422915" list-type="bulleted">
+          <item>Hoeveel cm is dit?  </item>
+          <item>Hoeveel m is dit?  </item>
+          <item>Neem nou enige 340 ml koeldrankblikkie en meet die afstand rondom die blikkie </item>
+        </list>
+        <para id="id1168999835791">in mm.  </para>
+      </section>
+    </section>
+    <section id="id1168998877048">
+      <title>Assessering</title>
+      <table id="id1168998305669" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 4 </entry>
+            </row>
+            <row>
+              <entry>MetingDie leerder is in staat om gepaste meeteenhede, instrumente en formules in 'n verskeidenheid kontekste te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>4.1 analoog-, digitale en 24-uur-tyd tot minstens die naaste minuut en sekonde lees, sê en skryf;</entry>
+            </row>
+            <row>
+              <entry>4.2 probleme oplos wat berekeninge met en herleiding tussen geskikte tydeenhede behels, insluitend dekades, eeue en millennia;</entry>
+            </row>
+            <row>
+              <entry>4.3 instrumente gebruik wat tyd meet tot op geskikte vlakke van noukeurigheid, insluitend polshorlosies en stophorlosies;</entry>
+            </row>
+            <row>
+              <entry>4.4 maniere in verskillende kulture beskryf en illustreer om tyd deur die geskiedenis heen te meet en voor te stel;</entry>
+            </row>
+            <row>
+              <entry>4.5 SI-eenhede gebruik om voorwerpe en vorms te skat, te meet, aan te teken, te vergelyk en te orden met geskikte akkuraatheid vir:<list id="id6266023" list-type="bulleted"><item>massa m.b.v. gram (g) en kilogram (kg);</item><item>kapasiteit m.b.v. millimeter (mm), sentimeter (cm), meter (m) en kilometer (km);</item><item>lengte m.b.v. millimeter (mm), sentimeter (cm), meter (m) en kilometer (km);</item></list></entry>
+            </row>
+            <row>
+              <entry>4.6 probleme oplos wat die kies van, berekening met en herleiding tussen geskikte S.I.-eenhede (sien hierbo) behels, terwyl geskikte kontekste vir Tegnologie en Natuurwetenskappe geïntegreer word;</entry>
+            </row>
+            <row>
+              <entry>4.7 gepaste meetinstrumente gebruik (met ‘n begrip vir die beperkings daarvan) tot op geskikte vlakke van noukeurigheid, insluitend:<list id="id6443002" list-type="bulleted"><item>badkamerskale, kombuisskale en balanse om massa te meet;</item><item>maatbekers om volume te meet;</item><item>liniale, meterstokke, maatbande en klikwiele om lengte te meet.</item></list></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168996958597">
+      <title>Memorandum</title>
+      <para id="id1168997449590">AKTIWITEIT 1</para>
+      <para id="id1168997876991">3. maatband / meterstok / meterwiel (klikwiel) / liniaal / tou / wol</para>
+      <para id="id1168998527334">1. 1.1: cm</para>
+      <para id="id6193762">1.2: m</para>
+      <para id="id1168986557544">1.3: m</para>
+      <para id="id1168984586084">1.4: mm</para>
+      <para id="id2714618">1.5: km</para>
+      <para id="id1168994399301">1.6: m</para>
+      <para id="id6550124">2. 2.1: 2 m</para>
+      <para id="id1168991053136">2.2: 26 cm</para>
+      <para id="id1168988821861">2.3; 674 km</para>
+      <para id="id1168985934720">3. </para>
+      <table id="id1168984072115" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>42</entry>
+              <entry/>
+              <entry>179</entry>
+              <entry/>
+              <entry>1463</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>8,5</entry>
+              <entry/>
+              <entry>24,5</entry>
+              <entry/>
+              <entry>102,6</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4555368">4.</para>
+      <table id="id3573052" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>mm</entry>
+              <entry>m</entry>
+            </row>
+            <row>
+              <entry> 3 000</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>0,367</entry>
+            </row>
+            <row>
+              <entry> 4 700</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>0,028</entry>
+            </row>
+            <row>
+              <entry> 67</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>0,006</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168984577716"/>
+      <para id="id1168995857094">5.</para>
+      <table id="id1168984609404" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>7 000</entry>
+              <entry/>
+              <entry>600</entry>
+              <entry/>
+              <entry>1 480</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>0,426</entry>
+              <entry/>
+              <entry>0,038</entry>
+              <entry/>
+              <entry>0,009</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168995437705">AKTIWITEIT 3</para>
+      <para id="id1168989097687">1. 20 cm</para>
+      <para id="id1168985852581"> 1.1: 1 250 km</para>
+      <para id="id1168997140562">1.2: 1 500 km</para>
+      <para id="id1168998917868">2. 2.1: 1:5</para>
+      <para id="id1168985927359">2.2: 1:20</para>
+      <para id="id1168997208177">2.3: 1:15</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,488 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Massa</title>
+  <metadata>
+  <md:content-id>m30900</md:content-id><md:title>Massa</md:title>
+  <md:abstract/>
+  <md:uuid>9fbcae72-c684-4ce2-ad44-ade2884a162f</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8749427">
+      <title>WISKUNDE</title>
+      <para id="para-id8749427">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8970715">
+      <title>Graad 5</title>
+      <para id="para-id8970715">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8784908">
+      <title>METING EN TYD</title>
+      <para id="para-id8784908">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6694134">
+      <title>Module 41</title>
+      <para id="para-id6694134">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4469529">
+      <title>MASSA</title>
+      <para id="id8653775">Massa</para>
+      <para id="id7657984">Aktiwiteit 1:</para>
+      <para id="id7657988">Om probleme op te los wat die kies van standaardeenhede insluit [LU 4.6]</para>
+      <para id="id7696631">1. Net soos by lengte, is dit noodsaaklik dat ons sal weet wanneer om gram, kg en ton as eenheid te gebruik. </para>
+      <para id="id8718731"> Werk saam met ’n maat en maak beurte. Neem enige drie voorwerpe in jou klas. Hou elkeen apart vas en rangskik hulle dan van die ligste tot die swaarste. In watter eenheid sal jy jou items weeg: gram? kg? ton?</para>
+      <para id="id8718736"> Voltooi die tabel:</para>
+      <table id="id8749960" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Item</entry>
+              <entry>Van lig tot swaar</entry>
+              <entry>Eenheid</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">1</emphasis>.</entry>
+              <entry>..........................................</entry>
+              <entry>..........................................</entry>
+              <entry>..........................................</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">2</emphasis>.</entry>
+              <entry>..........................................</entry>
+              <entry>..........................................</entry>
+              <entry>..........................................</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">3</emphasis>.</entry>
+              <entry>..........................................</entry>
+              <entry>..........................................</entry>
+              <entry>..........................................</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8826297"> Onthou jy nog?</para>
+      <para id="id8857340"> 1 000 g = 1 kg</para>
+      <para id="id8933656"> 1 000 kg = 1 ton</para>
+      <para id="id8686114"> Soms is items / artikels so lig dat jy nie kan sien hoeveel hulle weeg op ’n gewone skaal nie. Maak ’n regmerkie by dié wat jy dink ’n massa van minder as 1 gram het.</para>
+      <table id="id6386317" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>’n veer</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>’n krammetjie</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>’n haarrekkie</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>’n uitveër</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>’n lemoen</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>’n pen</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>’n koppiespeld</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>’n sandkorrel</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>’n haar</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6456356">Aktiwiteit 2:</para>
+      <para id="id8838433">Om te meet en op te teken [LU 4.5.1]</para>
+      <para id="id7584084">Om met toepaslike meetinstrumente presies te meet [LU 4.7.1]</para>
+      <para id="id8658483"/>
+      <para id="id8658487">Het jy geweet?</para>
+      <para id="id4981834">Om die <emphasis effect="bold">massa</emphasis> van ’n item te bepaal, beteken dat ons wil weet hoe <emphasis effect="bold">swaar</emphasis> die item is of hoeveel dit <emphasis effect="bold">weeg</emphasis>. Om dit te kan doen, benodig ons ’n <emphasis effect="bold">skaal</emphasis>. Aan hoeveel verskillende soorte skale kan jy dink?</para>
+      <para id="id8679291">Skryf hul name hier neer. </para>
+      <para id="id8950397">1. Kyk goed na die volgende voorbeelde van skale. Werk saam met ’n maat en skryf die lesing op elke skaal neer.</para>
+      <para id="id8858336">1.1</para>
+      <figure id="id4916709">
+        <media id="id4916709_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-1e30.png" id="id4916709__onlineimage" height="172" width="110"/>
+        </media>
+      </figure>
+      <para id="id8794973">1.2</para>
+      <figure id="id8921325">
+        <media id="id8921325_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-6390.png" id="id8921325__onlineimage" height="104" width="105"/>
+        </media>
+      </figure>
+      <para id="id8899798"/>
+      <para id="id8899802">1.3</para>
+      <figure id="id7685014">
+        <media id="id7685014_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-5bfa.png" id="id7685014__onlineimage" height="173" width="63"/>
+        </media>
+      </figure>
+      <para id="id7612722">1.4</para>
+      <figure id="id4311243">
+        <media id="id4311243_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-e166.png" id="id4311243__onlineimage" height="256" width="243"/>
+        </media>
+      </figure>
+      <para id="id6769471"/>
+      <para id="id6769474">1.5</para>
+      <figure id="id7580507">
+        <media id="id7580507_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-7d12.png" id="id7580507__onlineimage" height="178" width="110"/>
+        </media>
+      </figure>
+      <para id="id8800698">1.6</para>
+      <figure id="id7696056">
+        <media id="id7696056_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6-f9ee.png" id="id7696056__onlineimage" height="132" width="264"/>
+        </media>
+      </figure>
+      <para id="id8867569">2. Kyk na die volgende tekeninge en skryf die massa van die voorwerpe neer.</para>
+      <para id="id6317157">2.1</para>
+      <figure id="id7617767">
+        <media id="id7617767_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics7-eb03.png" id="id7617767__onlineimage" height="82" width="208"/>
+        </media>
+      </figure>
+      <para id="id8285519">2.2</para>
+      <figure id="id8257424">
+        <media id="id8257424_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics8-f3a7.png" id="id8257424__onlineimage" height="82" width="185"/>
+        </media>
+      </figure>
+      <para id="id7658083"/>
+      <para id="id6579376">2.3</para>
+      <figure id="id7581203">
+        <media id="id7581203_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics9-8b13.png" id="id7581203__onlineimage" height="77" width="200"/>
+        </media>
+      </figure>
+      <para id="id7628826">2.4</para>
+      <figure id="id7341526">
+        <media id="id7341526_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics10.png" id="id7341526__onlineimage" height="92" width="183"/>
+        </media>
+      </figure>
+      <para id="id8771945">Aktiwiteit 3:</para>
+      <para id="id8674376">Om te skat, te meet en op te teken [LU 4.5.1]</para>
+      <para id="id8674381">Om met toepaslike meetinstrumente presies te meet [LU 4.7.1]</para>
+      <para id="id7639914">Werk in groepe van drie. Bring die volgende items van die huis af saam:</para>
+      <para id="id8727469">’n skaal ; 1 koppie rou rys ; 1 koppie suiker ; 1 koppie koekmeel ; 1 koppie sout ; 1 koppie graanvlokkies en 1 koppie rosyntjies.(Onthou om <emphasis effect="bold">dieselfde</emphasis> koppie te gebruik wanneer julle afmeet!)</para>
+      <para id="id8804984">1. Bepaal nou die massa van bogenoemde en voltooi die tabel.</para>
+      <table id="id7703913" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Item</entry>
+              <entry>Massa in g geskat</entry>
+              <entry>Gemeet</entry>
+              <entry>Verskil</entry>
+            </row>
+            <row>
+              <entry>..............................................</entry>
+              <entry>.........................</entry>
+              <entry>.....................</entry>
+              <entry>.....................</entry>
+            </row>
+            <row>
+              <entry>..............................................</entry>
+              <entry>.........................</entry>
+              <entry>.....................</entry>
+              <entry>.....................</entry>
+            </row>
+            <row>
+              <entry>..............................................</entry>
+              <entry>.........................</entry>
+              <entry>.....................</entry>
+              <entry>.....................</entry>
+            </row>
+            <row>
+              <entry>..............................................</entry>
+              <entry>.........................</entry>
+              <entry>.....................</entry>
+              <entry>.....................</entry>
+            </row>
+            <row>
+              <entry>..............................................</entry>
+              <entry>.........................</entry>
+              <entry>.....................</entry>
+              <entry>.....................</entry>
+            </row>
+            <row>
+              <entry>..............................................</entry>
+              <entry>.........................</entry>
+              <entry>.....................</entry>
+              <entry>.....................</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8697450">2. Wat weeg die swaarste?  </para>
+      <para id="id6477250">3. Wat weeg die ligste?  </para>
+      <para id="id7683406">Aktiwiteit 4:</para>
+      <para id="id4579107">Om probleme op te los wat die kies van berekening met en herlei van standaardeenhede insluit [LU 4.6]</para>
+      <para id="id6418932">KOM ONS HERSIEN</para>
+      <para id="id8912530">Hoe sal ons die antwoorde in gram hierbo in die tabel as kg kan skryf?</para>
+      <para id="id8912144">Ek weet 1 000 g = 1 kg</para>
+      <para id="id8912148">Dus: 1 g = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mi/><m:mtext>000</m:mtext></m:mrow></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{1`"000"} } } } {}</m:annotation></m:semantics></m:math>kg</para>
+      <para id="id4944756">= 0,001 kg</para>
+      <para id="id7571010">Net so sal 17 g 17 duisendstes van ’n kg wees.</para>
+      <para id="id7615308"> 17 g = 0,017 kg</para>
+      <para id="id7286402"> en 234 g = 0,234 kg</para>
+      <para id="id8760879"> 4 387 g = 4 kg 387 g = 4,387 kg</para>
+      <para id="id4477453">1. Skryf die volgende as kg.</para>
+      <para id="id8687276">a) 9 g</para>
+      <para id="id7650985">b) 26 g</para>
+      <para id="id7684148">c) 89 g</para>
+      <para id="id8949899">d) 436 g</para>
+      <para id="id8954544">e) 2 309 g</para>
+      <para id="id8933819">f) 5 006 g </para>
+      <para id="id6502286"><figure id="id7637142"><media id="id7637142_media" alt=""><image mime-type="image/png" src="../../media/graphics11.png" id="id7637142__onlineimage" height="170" width="360"/></media></figure>3. Kyk na die massastukke hieronder. Kies die <emphasis effect="bold">minste</emphasis> aantal stukke wat jy sal benodig om die skaal te belanseer en skryf hulle neer.</para>
+      <table id="id7362183" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Massa</entry>
+              <entry>Stukke benodig</entry>
+            </row>
+            <row>
+              <entry>1,010 kg</entry>
+              <entry>1 kg ; 10 g</entry>
+            </row>
+            <row>
+              <entry>1,023 kg</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1,023 kg</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1,007 kg</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1,056 kg</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>983 g</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>724 g</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8835192">4. Afronding</para>
+      <para id="id8811862">4.1 Kan jy die volgende afrond tot die naaste kg?</para>
+      <para id="id8695287">(a) 7,6 kg ......................... </para>
+      <para id="id8785274">(b) 0,5 kg .........................</para>
+      <para id="id7568919">(c) 4,2 kg ......................... </para>
+      <para id="id8805148">(d) 2,5 kg .........................</para>
+      <para id="id8805245">4.2 Rond die volgende af tot die naaste ton:</para>
+      <para id="id8942289">(a) 20,8 t ......................... </para>
+      <para id="id8805014">(b) 29,4 t .........................</para>
+      <para id="id8760146">(c) 1,5 t ......................... </para>
+      <para id="id8806839">(d) 34,9 t .........................</para>
+      <para id="id8900669">  Kopkrapper!</para>
+      <para id="id8954660">Jy wil weet wat die massa van ’n stoel is. Jy het ’n badkamerskaal, maar die stoel is te groot daarvoor en val af. Hoe kan jy die massa van die stoel bepaal <emphasis effect="bold">sonder </emphasis>’n groter skaal?</para>
+    </section>
+    <section id="id7572771">
+      <title>Assessering</title>
+      <table id="id7526149" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 4 </entry>
+            </row>
+            <row>
+              <entry>MetingDie leerder is in staat om gepaste meeteenhede, instrumente en formules in 'n verskeidenheid kontekste te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>4.1 analoog-, digitale en 24-uur-tyd tot minstens die naaste minuut en sekonde lees, sê en skryf;</entry>
+            </row>
+            <row>
+              <entry>4.2 probleme oplos wat berekeninge met en herleiding tussen geskikte tydeenhede behels, insluitend dekades, eeue en millennia;</entry>
+            </row>
+            <row>
+              <entry>4.3 instrumente gebruik wat tyd meet tot op geskikte vlakke van noukeurigheid, insluitend polshorlosies en stophorlosies;</entry>
+            </row>
+            <row>
+              <entry>4.4 maniere in verskillende kulture beskryf en illustreer om tyd deur die geskiedenis heen te meet en voor te stel;</entry>
+            </row>
+            <row>
+              <entry>4.5 SI-eenhede gebruik om voorwerpe en vorms te skat, te meet, aan te teken, te vergelyk en te orden met geskikte akkuraatheid vir:<list id="id8794608" list-type="bulleted"><item>massa m.b.v. gram (g) en kilogram (kg);</item><item>kapasiteit m.b.v. millimeter (mm), sentimeter (cm), meter (m) en kilometer (km);</item><item>lengte m.b.v. millimeter (mm), sentimeter (cm), meter (m) en kilometer (km);</item></list></entry>
+            </row>
+            <row>
+              <entry>4.6 probleme oplos wat die kies van, berekening met en herleiding tussen geskikte S.I.-eenhede (sien hierbo) behels, terwyl geskikte kontekste vir Tegnologie en Natuurwetenskappe geïntegreer word;</entry>
+            </row>
+            <row>
+              <entry>4.7 gepaste meetinstrumente gebruik (met ‘n begrip vir die beperkings daarvan) tot op geskikte vlakke van noukeurigheid, insluitend:<list id="id8812363" list-type="bulleted"><item>badkamerskale, kombuisskale en balanse om massa te meet;</item><item>maatbekers om volume te meet;</item><item>liniale, meterstokke, maatbande en klikwiele om lengte te meet.</item></list></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id8897506">
+      <title/>
+      <para id="para-id8897506">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4343998">
+      <title>Memorandum</title>
+      <para id="id8859778">AKTIWITEIT 1</para>
+      <table id="id7423653" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>√</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>√</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>√</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>√</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>√</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8739683">AKTIWITEIT 2</para>
+      <para id="id6548625"> Badkamer-; trekskaal; kombuis-; weeg</para>
+      <para id="id8825250">1. 1.1 6,25 kg </para>
+      <para id="id8657118">1.2 88,5 kg </para>
+      <para id="id6547459">1.3 3 kg</para>
+      <para id="id8868134">1.4 17,68 kg </para>
+      <para id="id8689167">1.5 210 g </para>
+      <para id="id7705557">1.6 172 kg</para>
+      <para id="id4993270">2.</para>
+      <para id="id6569649"> 2.1 3,050 kg </para>
+      <para id="id8686959">2.2 5,71 kg</para>
+      <para id="id7696024">2.3 1,215 kg </para>
+      <para id="id4621743">2.4 0,604 kg</para>
+      <para id="id8901054">AKTIWITEIT 4</para>
+      <para id="id8688514">1. 1.1 0,0091.4 </para>
+      <para id="id6104599">1.2 0,026</para>
+      <para id="id7684253">1.3 0,089</para>
+      <para id="id7568766">1.4 0,436</para>
+      <para id="id7661438"/>
+      <para id="id7567618">1.5 2,309</para>
+      <para id="id4787043"/>
+      <para id="id8257391">1.6 5,006</para>
+      <para id="id8728491">3.</para>
+      <table id="id8728495" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>MASSA</entry>
+              <entry>STUKKE BENODIG</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>1 kg; 20 g; 2 g; 1 g</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>1 kg; 20 g; 5 g; 2 g; 1 g</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>1 kg; 5 g; 2 g</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>1 kg; 50 g; 5 g; 1 g</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>20 g; 10 g; 2 g; 1 g500 g; 200 g; 200 g; 50 g</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>500 g; 200 g; 20 g; 2 g; 2 g</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7805696">4. 4.1 </para>
+      <para id="id6249768">a)  8  </para>
+      <para id="id8973370">b)  1</para>
+      <para id="id7671904">c)  4  </para>
+      <para id="id7571137">d)  3</para>
+      <para id="id7428557">4.2 </para>
+      <para id="id6319303">a) 21  </para>
+      <para id="id7705332">b) 29</para>
+      <para id="id6680393"> c)  2  </para>
+      <para id="id7658212">d) 35</para>
+      <para id="id7649239">KOPKRAPPER</para>
+      <para id="id4410606">Klim self alleen op en weeg; hou stoel bo kop, klim weer op en weeg (of omgekeerd); die verskil in die lesings is die massa van die stoel.</para>
+    </section>
+  </content>
+</document>

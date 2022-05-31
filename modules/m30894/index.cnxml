@@ -1,0 +1,783 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tabelle en kontroles om data te organiseer en aan te teken</title>
+  <metadata>
+  <md:content-id>m30894</md:content-id><md:title>Tabelle en kontroles om data te organiseer en aan te teken</md:title>
+  <md:abstract/>
+  <md:uuid>496dfcab-8005-4e1e-bc58-1bbccca47e36</md:uuid>
+</metadata>
+
+<content>
+    <section id="id2343102">
+      <title>WISKUNDE</title>
+      <para id="para-id2343102">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2343110">
+      <title>Graad 5</title>
+      <para id="para-id2343110">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5653661">
+      <title>GEWONE BREUKE EN DESIMALE BREUKE</title>
+      <para id="para-id5653661">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5438731">
+      <title>Module 38</title>
+      <para id="para-id5438731">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2357232">
+      <title>TABELLE EN KONTROLES OM DATA TE ORGANISEER</title>
+      <section id="id4851347">
+        <title>Aktiwiteit 1:</title>
+        <para id="para-id4851347">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id5393562">
+        <title>Om tabelle en kontroles te gebruik om data te organiseer en aan te teken [LU 5.3]</title>
+        <para id="id5393569">1. Gebruik nou jou bestaande kennis. Kyk goed na die volgende tabel en voltooi:</para>
+        <table id="id2385165" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>T</entry>
+                <entry>E</entry>
+                <entry>t</entry>
+                <entry>h</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Bv.</entry>
+                <entry/>
+                <entry>5</entry>
+                <entry>9</entry>
+                <entry>8</entry>
+                <entry>=</entry>
+                <entry>5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>98</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"98"} }  over  { size 8{"100"} } } } {}</m:annotation></m:semantics></m:math></entry>
+                <entry>=</entry>
+                <entry>5,98</entry>
+              </row>
+              <row>
+                <entry>1.1</entry>
+                <entry/>
+                <entry/>
+                <entry>3</entry>
+                <entry>6</entry>
+                <entry>=</entry>
+                <entry>............</entry>
+                <entry>=</entry>
+                <entry>............</entry>
+              </row>
+              <row>
+                <entry>1.2</entry>
+                <entry/>
+                <entry>1</entry>
+                <entry/>
+                <entry>7</entry>
+                <entry>=</entry>
+                <entry>............</entry>
+                <entry>=</entry>
+                <entry>............</entry>
+              </row>
+              <row>
+                <entry>1.3</entry>
+                <entry/>
+                <entry>3</entry>
+                <entry>6</entry>
+                <entry/>
+                <entry>=</entry>
+                <entry>............</entry>
+                <entry>=</entry>
+                <entry>............</entry>
+              </row>
+              <row>
+                <entry>1.4</entry>
+                <entry>4</entry>
+                <entry>2</entry>
+                <entry>8</entry>
+                <entry>5</entry>
+                <entry>=</entry>
+                <entry>............</entry>
+                <entry>=</entry>
+                <entry>............</entry>
+              </row>
+              <row>
+                <entry>1.5</entry>
+                <entry>4</entry>
+                <entry>7</entry>
+                <entry>0</entry>
+                <entry>3</entry>
+                <entry>=</entry>
+                <entry>............</entry>
+                <entry>=</entry>
+                <entry>............</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id3059329"/>
+        <para id="id5387775"> Kopkrapper!</para>
+        <para id="id5240572"> Hoe lyk die volgende breuke as desimale breuke op die sakrekenaar?</para>
+        <para id="id5409872">1. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id3043669">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5646001">3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>40</m:mtext><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"40"}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id2519785">4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>80</m:mtext><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"80"}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5254099">5. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>37</m:mtext><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"37"}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id2951259">6. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>59</m:mtext><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"59"}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id2761140"> Hoe verskil 3 en 4 se antwoorde van die res?  </para>
+        <para id="id4968508"/>
+        <para id="id4968512"> Waarom is dit so? </para>
+        <para id="id2569103"/>
+        <para id="id2569108"/>
+        <para id="id3000989">Het jy geweet?</para>
+        <para id="id4402301">Ons skryf gewoonlik nie die <emphasis effect="bold">eind</emphasis>nulle in desimale breuke nie, maar dit is belangrik om hulle wel in die volgende gevalle te skryf:</para>
+        <para id="id4090104">a) As ons met <emphasis effect="bold">geld</emphasis> werk: R8,60 (dit wys hoeveel sent daar is)</para>
+        <para id="id3517446">b) As ons atlete se <emphasis effect="bold">tyd</emphasis> neem met ’n <emphasis effect="bold">stophorlosie</emphasis>: 7,30 sekondes. So gee ons uitslae tot ’n honderdste van ’n sekonde</para>
+        <list id="id4451616" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+          <item>As Ma <emphasis effect="bold">materiaal </emphasis>gaan koop: 1,70 meter (sodat die verskoopsper­soon presies weet hoeveel cm om af te sny)</item>
+        </list>
+      </section>
+      <section id="id5457058">
+        <title>Aktiwiteit 2:</title>
+        <para id="para-id5457058">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id4841961">
+        <title>Om getalle te herken en voor te stel [LU 1.3]</title>
+        <para id="id4201480">1. Soms is dit moeilik om te bepaal presies waar ‘n desimale getal in die groot geheel pas. n Getallelyn is ‘n handige hulpmiddel om jou hierin te help, want nou kan jy “sien” hoe die getalle op mekaar volg. Kyk of jy op die getallelyn kan aandui min of meer waar die volgende getalle sal lê:</para>
+        <figure id="id3471201">
+          <media id="id3471201_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 10-692e.png" id="id3471201__onlineimage" height="40" width="511"/>
+          </media>
+        </figure>
+        <para id="id4267425">A : 5,82 </para>
+        <para id="id4226264">B : 5,99</para>
+        <para id="id4226270">C : 6,09 </para>
+        <para id="id5635082">D : 6,24</para>
+      </section>
+      <section id="id3000238">
+        <title>Aktiwiteit 3:</title>
+        <para id="para-id3000238">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id2778665">
+        <title>Om ‘n reeks tegnieke te gebruik om hoofreken te doen [LU 1.10.2]</title>
+        <para id="id2961766">1. Kom ons speel ’n speletjie!</para>
+        <para id="id3060689">Werk saam met ’n maat. Maak beurte. Druk met die agterkant van jou potlood op enige getal terwyl jou oë toe is. Maak dan jou oë oop en sê waaruit dié getal bestaan, </para>
+        <para id="id2913132">bv. 14,38 = 14 + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id4302244">Alles wat jy reg het, moet jy groen inkleur, terwyl jou maat weer alles wat korrek is, blou inkleur. Die een wat iets verkeerd het, mis ’n beurt. Die een wat die meeste blokkies ingekleur het, wen.</para>
+        <figure id="id2979882">
+          <media id="id2979882_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 13-074d.png" id="id2979882__onlineimage" height="261" width="578"/>
+          </media>
+        </figure>
+      </section>
+      <section id="id5520634">
+        <title>Aktiwiteit 4:</title>
+        <para id="para-id5520634">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id2754996">
+        <title>Om getalle te herken en te klassifiseer ten einde hulle te vergelyk [LU 1.3.3]</title>
+        <para id="id4116559">1. Jy weet reeds hoe ons tiendes en honderdstes as desimale breuke skryf. Kyk nou baie goed na die volgende getalle. Vervang die * met &lt; ; &gt; of = </para>
+        <para id="id5234257">Wenk: as jy twyfel oor die korrekte antwoord, breek die getalle eers op soos in die speletjie hierbo.</para>
+        <para id="id3047251">1.1: 1,7 * 1,07  </para>
+        <para id="id4082519">1.2: 0,6 * 0,06  </para>
+        <para id="id4240829">1.3: 0,58 * 0,9  </para>
+        <para id="id3062985">1.4: 0,34 * 0,4  </para>
+        <para id="id2927335">1.5: 2,05 * 2,5  </para>
+        <para id="id2777504">1.6: 1,8 * 1,80  </para>
+        <para id="id5177472"> Kopkrapper!</para>
+        <para id="id3048170">Hoe lyk een kwart (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{4} } } } {}</m:annotation></m:semantics></m:math>) as ’n desimale breuk? .........................</para>
+        <para id="id2798742">Kan jy die volgende as desimale breuke skryf?</para>
+        <para id="id5546567">a) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> :  </para>
+        <para id="id5440460">b) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>25</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"25"} } } {}</m:annotation></m:semantics></m:math> :  </para>
+        <para id="id2943354">c) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>20</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"20"} } } {}</m:annotation></m:semantics></m:math>  :  </para>
+        <para id="id5470141">d) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>17</m:mtext><m:mtext>50</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"17"}  over  {"50"} } } {}</m:annotation></m:semantics></m:math> :  </para>
+      </section>
+      <section id="id5127434">
+        <title>Aktiwiteit 5:</title>
+        <para id="para-id5127434">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id3014734">
+        <title>Om tabelle en kontroles te gebruik om data te organiseer en aan te teken [LU 5.3]</title>
+        <para id="id5458228">1. Uitdaging!</para>
+        <para id="id5488091">Neem ’n maatband en meet die lengte van vyf van jou klasmaats (tot twee syfers na die desimale komma). Lys jou resultate in ’n tabel en rangskik jou maats van die kortste tot die langste.</para>
+        <table id="id2300064" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Naam</entry>
+                <entry>Lengte</entry>
+                <entry>Genommer :kort na lank</entry>
+              </row>
+              <row>
+                <entry>1.1</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.2</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.3</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.4</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.5</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id3063186"/>
+      </section>
+      <section id="id3063192">
+        <title>DUISENDSTES</title>
+        <para id="id5587266">Het jy geweet?</para>
+        <para id="id5587271">As ek een duisendste 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>1000</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"1000"} } } {}</m:annotation></m:semantics></m:math> as ’n desimale breuk moet skryf, sal dit 0,001 wees.</para>
+        <para id="id2665284">Die <emphasis effect="bold">nulle </emphasis>is <emphasis effect="bold">plekhouers </emphasis>vir die ene, tiendes en honderdstes en mag nie weggelaat word nie.</para>
+        <para id="id2870604">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mtext>100</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"100"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mtext>1000</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"1000"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+          <figure id="id2873571">
+            <media id="id2873571_media" alt="">
+              <image mime-type="image/png" src="../../media/Picture 41.png" id="id2873571__onlineimage" height="166" width="518"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+      <section id="id5625281">
+        <title>Aktiwiteit 6:</title>
+        <para id="para-id5625281">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id5182663">
+        <title>Om getalle te herken, te klassifiseer en voor te stel om hulle te beskryf en te vergelyk [LU 1.3.3]</title>
+        <list id="id3680374" list-type="enumerated" number-style="arabic">
+          <item>Kyk goed na die voorstellings hieronder. Watter desimale getalle word by elkeen voorgestel?</item>
+        </list>
+        <para id="id4167529">Bv.</para>
+        <table id="id4167533" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>E</entry>
+                <entry>t</entry>
+                <entry>h</entry>
+                <entry>d</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>X</entry>
+              </row>
+              <row>
+                <entry>X</entry>
+                <entry/>
+                <entry/>
+                <entry>X</entry>
+              </row>
+              <row>
+                <entry>X</entry>
+                <entry/>
+                <entry>X</entry>
+                <entry>X</entry>
+              </row>
+              <row>
+                <entry>X</entry>
+                <entry>X</entry>
+                <entry>X</entry>
+                <entry>X</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5409312">1.1</para>
+        <table id="id5409316" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>E</entry>
+                <entry>t</entry>
+                <entry>h</entry>
+                <entry>d</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>X</entry>
+              </row>
+              <row>
+                <entry>X</entry>
+                <entry/>
+                <entry/>
+                <entry>X</entry>
+              </row>
+              <row>
+                <entry>X</entry>
+                <entry/>
+                <entry/>
+                <entry>X</entry>
+              </row>
+              <row>
+                <entry>X</entry>
+                <entry/>
+                <entry/>
+                <entry>X</entry>
+              </row>
+              <row>
+                <entry>X</entry>
+                <entry/>
+                <entry>X</entry>
+                <entry>X</entry>
+              </row>
+              <row>
+                <entry>X</entry>
+                <entry/>
+                <entry>X</entry>
+                <entry>X</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5418108">1.2</para>
+        <table id="id4853286" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>E</entry>
+                <entry>t</entry>
+                <entry>h</entry>
+                <entry>d</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry>x</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry>x</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry>x</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry>x</entry>
+                <entry/>
+                <entry>x</entry>
+              </row>
+              <row>
+                <entry>x</entry>
+                <entry>x</entry>
+                <entry/>
+                <entry>x</entry>
+              </row>
+              <row>
+                <entry>x</entry>
+                <entry>x</entry>
+                <entry/>
+                <entry>x</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5242591">1.3</para>
+        <table id="id5242595" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>E</entry>
+                <entry>t</entry>
+                <entry>h</entry>
+                <entry>d</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>x</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>x</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>x</entry>
+                <entry>x</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>x</entry>
+                <entry>x</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>x</entry>
+                <entry>x</entry>
+                <entry>x</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>x</entry>
+                <entry>x</entry>
+                <entry>x</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>x</entry>
+                <entry>x</entry>
+                <entry>x</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5501390">2. Kan jy bogenoemde as gemengde getalle / gewone breuke skryf?</para>
+      </section>
+      <section id="id2833051">
+        <title>Aktiwiteit 7:</title>
+        <para id="para-id2833051">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id4696741">
+        <title>Om getalle te herken, te klassifiseer en voor te stel ten einde hulle te beskryf en te vergelyk</title>
+        <para id="para-id4696741">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id5489103">
+        <title>[LU 1.3.3]</title>
+        <para id="id2357494">1. Kleur net die sakke wat swaarder as 1,5 kg weeg, in:</para>
+        <figure id="id5128483">
+          <media id="id5128483_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 42.png" id="id5128483__onlineimage" height="267" width="633"/>
+          </media>
+        </figure>
+        <para id="id3523695">2. In module 1 het ons baie oor die waarde en plekwaarde van syfers gesels. (Onthou jy nog?) Kyk goed na die volgende getalle en skryf dan die waarde van elke onderstreepte syfer neer:</para>
+        <para id="id5224444">Bv. 3,76<emphasis effect="underline">8</emphasis> : 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>1000</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"1000"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id5573401">2.1: 4,2<emphasis effect="underline">3</emphasis>1 :   </para>
+        <para id="id3060565">2.2: 8,<emphasis effect="underline">9</emphasis>23 :  </para>
+        <para id="id5136453">2.3: 289,<emphasis effect="underline">7</emphasis> :   </para>
+        <para id="id2842435">2.4: <emphasis effect="underline">2</emphasis>1,38 :  </para>
+        <para id="id5151809">2.5: 57,23<emphasis effect="underline">6</emphasis> :   </para>
+        <para id="id2481335">2.6: 9,8<emphasis effect="underline">9</emphasis>7 :  </para>
+        <para id="id3062806">3. Vergelyk die volgende getalle met mekaar. Omkring die kleinste een.</para>
+        <para id="id5257473">Wenk: jy kan dit verander na gewone breuke / gemengde getalle as jy wil – so sal jy dalk makliker die antwoord kry.</para>
+        <para id="id2728918">3.1: 0,6 ; 0.06 ;  0,006</para>
+        <para id="id4757134">3.2: 3,2 ; 0,32 ;  0,032</para>
+        <para id="id2864102">3.3: 1,101 ; 1,111 ; 1,110 </para>
+        <para id="id5474795"/>
+        <para id="id4800698"> Kopkrapper!</para>
+        <para id="id5481182">Hoe lyk een agste ( 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math> ) as ’n desimale breuk? ....................... </para>
+        <para id="id4286069">En 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} } } {}</m:annotation></m:semantics></m:math> ?....................... En 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } } {}</m:annotation></m:semantics></m:math> ? ........................ En 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math> ? .......................</para>
+        <para id="id2821720">Kan jy 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>112</m:mtext><m:mtext>250</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"112"}  over  {"250"} } } {}</m:annotation></m:semantics></m:math> as ’n desimale breuk skryf? .......................... </para>
+        <para id="id5152145">Hoe lyk 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>350</m:mtext><m:mtext>500</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"350"}  over  {"500"} } } {}</m:annotation></m:semantics></m:math> as ’n desimale breuk? .........................</para>
+        <para id="id2371145">Verduidelik hoe jy jou antwoorde gekry het SONDER om ’n sakrekenaar te gebruik! </para>
+      </section>
+    </section>
+    <section id="id5101234">
+      <title>Assessering</title>
+      <table id="id5101241" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1 </entry>
+            </row>
+            <row>
+              <entry>Getalle, Verwerkings en VerwantskappeDie leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.3 die volgende getalle herken en voorstel, sodat dit beskryf en vergelyk kan word:</entry>
+            </row>
+            <row>
+              <entry>1.3.3 desimale breuke in terme van 0,5; 1,5; 2,5, ensovoorts, in konteks van meting;</entry>
+            </row>
+            <row>
+              <entry>1.5 ekwivalente vorms van die bogenoemde getalle herken en gebruik, insluitend:</entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id5640341" list-type="bulleted">
+                  <item>desimale breuke in terme van 0,5; 1,5; 2,5, ensovoorts, in die konteks van meting;</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>1.6 probleme in kontekste oplos, insluitend kontekste wat gebruik kan word om ‘n bewustheid van ander leerareas, asook van menseregte-, sosiale, ekonomiese en omgewingskwessies, te bevorder, soos:<list id="id3058042" list-type="bulleted"><item>meting in konteks van Natuurwetenskappe en Tegnologie;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.8 deur geskikte bewerkings skat en bereken vir die oplossing van probleme in verband met die volgende te kies en gebruik:<list id="id5680716" list-type="bulleted"><item>(addisioneel) optel van positiewe desimale tot twee desimale syfers;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.9 hoofberekenings uitvoer wat die volgende behels:1.9.1 optelling en aftrekking;1.9.2 vermenigvuldiging van heelgetalle tot minstens 10 x 10;</entry>
+            </row>
+            <row>
+              <entry>1.10 ‘n verskeidenheid tegnieke gebruik om sowel skriftelike as hoofberekeninge met heelgetalle te doen, insluitend:1.10.2 opbou en afbreek van getalle;1.10.5 gebruik van ‘n sakrekenaar;</entry>
+            </row>
+            <row>
+              <entry>1.11 ‘n verskeidenheid strategieë gebruik om oplossings te kontroleer en die redelikheid van oplossings te beoordeel.</entry>
+            </row>
+            <row>
+              <entry>LU 5 </entry>
+            </row>
+            <row>
+              <entry>DatahanteringDie leerder is in staat om data te versamel, op te som, voor te stel en krities te ontleed om gevolgtrekkings en voorspellings te maak en om toevallige variasies te interpreteer en te bepaal.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>5.3 data organiseer en aanteken deur tellings en tabelle te gebruik.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id2852987">
+      <title>Memorandum</title>
+      <para id="para-id2852987">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2939724">
+      <title>AKTIWITEIT 1</title>
+      <para id="id5679726">1. 1.1:  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>36</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"36"} }  over  { size 8{"100"} } } } {}</m:annotation></m:semantics></m:math> = 0,36</para>
+      <para id="id2674474"> 1.2: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  { size 8{7} }  over  { size 8{"100"} } } } {}</m:annotation></m:semantics></m:math> = 1,07</para>
+      <para id="id5668429"> 1.3: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  { size 8{6} }  over  { size 8{"10"} } } } {}</m:annotation></m:semantics></m:math> = 3,6 / 3,60</para>
+      <para id="id2727374"> 1.4: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>42</m:mtext><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>85</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"42" {  { size 8{"85"} }  over  { size 8{"100"} } } } {}</m:annotation></m:semantics></m:math> = 42,85</para>
+      <para id="id4848540"> 1.5: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>47</m:mtext><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"47" {  { size 8{3} }  over  { size 8{"100"} } } } {}</m:annotation></m:semantics></m:math> = 47,03</para>
+      <para id="id4964828">KOPKRAPPER</para>
+      <para id="id5551402">1. 0,03</para>
+      <para id="id5413106">2. 0,09</para>
+      <para id="id5413112">3. 0,4</para>
+      <para id="id5115035">4. 0,8</para>
+      <para id="id3062648">5. 0,37</para>
+      <para id="id3034522">6. 0,59</para>
+      <para id="id3034529">Net een syfer na die komma. </para>
+      <para id="id4090172">Sakrekenaar wys nie die laaste nul nie.</para>
+      <para id="id4090176">AKTIWITEIT 2</para>
+      <para id="id5605318">1. </para>
+      <para id="id2941926">A B C D</para>
+      <figure id="id3052671">
+        <media id="id3052671_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 33-692e.png" id="id3052671__onlineimage" height="40" width="511"/>
+        </media>
+      </figure>
+      <para id="id3702990">AKTIWITEIT 4</para>
+      <para id="id2984814">1. 1.1 &gt;</para>
+      <para id="id2944645">1.2 &gt;</para>
+      <para id="id2944652">1.3 &lt;</para>
+      <para id="id2507095">1.4 &lt;</para>
+      <para id="id2546367">1.5 &lt;</para>
+      <para id="id5200616">1.6 =</para>
+      <para id="id5200622">KOPKRAPPER</para>
+      <para id="id2847779"/>
+      <para id="id2847783">a) 0,75</para>
+      <list id="id5254289" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>0,04</item>
+        <item>0,15</item>
+        <item>0,34</item>
+      </list>
+      <para id="id4414343">AKTIWITEIT 6</para>
+      <para id="id5164813">1. 1.1: 5,026</para>
+      <list id="id3716698" list-type="bulleted">
+        <item>:2,603</item>
+        <item>:0,359</item>
+      </list>
+      <para id="id4596848">2. 2.1: 5
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>26</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>1000</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"26"} }  over  { size 8{"1000"} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id5635946">2.2: 2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>603</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>1000</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"603"} }  over  { size 8{"1000"} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id2333530">2.3: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mtext>359</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>1000</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"359"} }  over  { size 8{"1000"} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id2964370">AKTIWITEIT 7</para>
+      <para id="id2964374">1. 1,523; 1,52; 2,5; 2,146; 1,7; 1,510; 3,5</para>
+      <para id="id5097138">2. 2.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{3} }  over  { size 8{"100"} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id2877154"> 2.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{9} }  over  { size 8{"10"} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id5166805">2.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>10</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{7} }  over  { size 8{"10"} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id3579423"> 2.4 20</para>
+      <para id="id2811548"> 2.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>1000</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{6} }  over  { size 8{"1000"} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id4780463"> 2.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mtext>100</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{9} }  over  { size 8{"100"} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id2649681">3. 3.1: 0,006</para>
+      <para id="id2732621">3.2: 0,032</para>
+      <para id="id5126228">3.3: 1,101</para>
+      <para id="id5126235">KOPKRAPPER</para>
+      <para id="id1861470"> 0,125;  0,375;  0,625;  0,875</para>
+      <para id="id3029202"> 0,448</para>
+      <para id="id3029206"> 0,7</para>
+      <para id="id2576964"> Verander noemer na 1 000 (ekwivalente breuke)</para>
+    </section>
+  </content>
+</document>
